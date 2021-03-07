@@ -50,7 +50,7 @@ Antes de começar, você vai precisar ter em sua máquina as seguintes ferrament
 
 ```bash
 $ gcc -v
-#Se você nao tiver intalado, siga os seguintes passos:
+#Se você nao tiver instalado, siga os seguintes passos:
 $ sudo apt-get update
 $ sudo apt-get install build-essential gdb
 ```
