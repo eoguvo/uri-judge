@@ -40,6 +40,14 @@ Esse Repositório é um aglomerado desses problemas :)
 * [X] Automacao na criacao de nova solucao
 * [X] Automacao interativa
 
+<h3 id="features" align="center">
+    :white_check_mark: Done :white_check_mark:
+</h3>
+
+* Beginner
+    * [X] [Page 1](https://www.urionlinejudge.com.br/judge/en/problems/index/1)
+    * [X] [Page 2](https://www.urionlinejudge.com.br/judge/en/problems/index/1?page=2)
+
 <h2 id="pre-requisites" align="center">
     ⚙️ Pré-requisitos
 </h2>
